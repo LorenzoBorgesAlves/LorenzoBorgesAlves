@@ -29,11 +29,9 @@
     </td>
   </tr>
 </table>
-Meus Principais Projetos 🚀
 
-- **[https://github.com/LorenzoBorgesAlves/AEDS-2](link-para-o-seu-repositorio)**: Repositório contendo todo trabalho realizado na matéria de Algoritmos e Estruta de Dados 2.
 
 ## 🚀 Meus Principais Projetos
 
-- **[Análise de Dados do Transporte Público de BH](link-para-o-seu-repositorio)**: Projeto completo de análise de dados, desde a engenharia e limpeza até a criação de visualizações e mapas interativos para encontrar padrões de uso.
+- **[[Análise de Dados do Transporte Público de BH](https://github.com/LorenzoBorgesAlves/AEDS-2)](link-para-o-seu-repositorio)**: Repositório contendo todo trabalho realizado na matéria de Algoritmos e Estruta de Dados 2.
 - **[Outro Projeto](link-para-o-repositorio)**: Breve descrição do projeto.
