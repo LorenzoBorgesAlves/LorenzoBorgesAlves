@@ -33,5 +33,5 @@
 
 ## 🚀 Meus Principais Projetos
 
-- **[https://github.com/LorenzoBorgesAlves/AEDS-2](link-para-o-repositorio)**: Repositório contendo todo trabalho realizado na matéria de Algoritmos e Estruta de Dados 2.
+- **[AEDS-2](https://github.com/LorenzoBorgesAlves/AEDS-2)**: Repositório contendo todo trabalho realizado na matéria de Algoritmos e Estruta de Dados 2.
 
