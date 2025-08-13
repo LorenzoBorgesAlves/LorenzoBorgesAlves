@@ -29,7 +29,7 @@
     </td>
   </tr>
 </table>
-# 🚀 Meus Principais Projetos
+# Meus Principais Projetos 🚀
 
 - **[https://github.com/LorenzoBorgesAlves/AEDS-2](link-para-o-seu-repositorio)**: Repositório contendo todo trabalho realizado na matéria de Algoritmos e Estruta de Dados 2.
 
